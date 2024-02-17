@@ -1,0 +1,9 @@
+:root {
+--primary-color: white;
+--text-color: #434455;
+-title-color: #2E2F42;
+}
+
+body {
+    background-color: var(--primary-color);
+}
